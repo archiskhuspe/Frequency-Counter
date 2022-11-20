@@ -2,7 +2,7 @@
 
 💫 Files
 
-1. Arduino Code: To be implemented in Tinkercad
+1. Arduino Code
 2. Literature Survey: Analysis of different Research papers
 3. Research Paper: Detailed information of the project
 4. Image: Project's images
